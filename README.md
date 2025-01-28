@@ -14,9 +14,6 @@ A Python script that generates Spotify playlists based on your current mood, wit
 - Spotify Developer account and API credentials
 - Virtual environment (optional, but recommended)
 
-## Installation and Setup
-1. Clone this repository or download the files:
-   ```bash
-   git clone https://github.com/username/mood-playlist-generator.git
-   cd mood-playlist-generator
+## License
+- This project is licensed under the MIT License.
 
