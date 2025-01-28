@@ -1,6 +1,15 @@
+# Ignore virtual environment
 env/
-playlists.json
+
+# Ignore Python cache files
 *.pyc
 __pycache__/
-.DS_Store
+
+# Ignore sensitive environment files
 .env
+
+# Ignore playlists JSON storage
+playlists.json
+
+# Ignore macOS-specific system files
+.DS_Store
